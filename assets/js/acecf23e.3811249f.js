@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyaleblog=self.webpackChunkyaleblog||[]).push([[1903],{1912:l=>{l.exports=JSON.parse('{"blogBasePath":"/yaleblog/blog","blogTitle":"Blog","authorsListPath":"/yaleblog/blog/authors"}')}}]);
